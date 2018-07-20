@@ -23,7 +23,7 @@
    {{ nav.content({
       class: "rojo",
       texto: "Hola mundo estoy usando modulos."
-      super: true
+      
 
     })}}
     <a href="contact">Ir a contacto</a>
